@@ -1,0 +1,97 @@
+.Ibarra {
+    font-family: "Ibarra Real Nova";
+}
+
+.PlayFair {
+    font-family: "Playfair Display", serif;
+}
+
+.Karla {
+    font-family: "Karla", serif;
+}
+
+.Prompt {
+    font-family: "Prompt", serif;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-italic {
+    font-style: italic;
+}
+
+h1 {
+    font-family: "Playfair Display";
+    font-size: 700;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: "Playfair Display";
+    font-size: 400;
+    font-weight: normal;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.main-container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.font-container {
+    width: 100%;
+    border: solid 1px #a2a2a6;
+    margin: 5px auto;
+}
+
+.color-container {
+    width: 100%;
+    border: solid 3px #a2a2a6;
+}
+
+.color-panel {
+    display: inline-block;
+    text-align: center;
+    min-height: 100px;
+    padding: 5px;
+}
+
+.color-label {
+    font-weight: bold;
+}
+
+.darksalmon {
+    background-color: darksalmon;
+    border: solid 5px white;
+}
+
+.cadetblue {
+    background-color: cadetblue;
+    border: solid 5px white;
+}
+
+.darkkhaki {
+    background-color: darkkhaki;
+    border: solid 5px white;
+}
+
+.maroon {
+    background-color: maroon;
+    border: solid 5px white;
+}
+
+.mediumvioletred {
+    background-color: mediumvioletred;
+    border: solid 5px white;
+}
+
+.papayawhip {
+    background-color: papayawhip;
+    border: solid 5px white;
+}
